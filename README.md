@@ -1,4 +1,6 @@
 # nvidia-control-linux
+My adepted version to support RTX 3xxx Cards and multiple GPUs. Also added an option to lock core clock.
+
 Bash script to control clock speed, memory speed, power limit, user defined automatic fan control, LED brightness and power state for Nvidia graphics cards on Linux.
 
 [Options are in the script under the License.](https://github.com/kevinlekiller/nvidia-control-linux/blob/master/nvidia-control.sh#L22)
